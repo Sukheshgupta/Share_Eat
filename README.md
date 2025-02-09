@@ -1,9 +1,4 @@
-# ShareEat - A Sustainable Food Sharing App
-
-Here’s a sample README file for your project:
-
-```markdown
-# Food Delivery App
+# ShareEatpp (Food Delivery App) - A Sustainable Food Sharing A
 
 A Flutter-based food delivery app inspired by Zomato, designed to provide users with an easy and efficient way to browse, order, and enjoy food from their favorite restaurants. The app utilizes Flutter and FlutterFlow for certain parts of the UI, ensuring a responsive and smooth user experience.
 
